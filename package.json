@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "llmasaservice-client": "^0.0.8",
+    "llmasaservice-client": "^0.0.11",
     "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18"
